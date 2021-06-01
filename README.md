@@ -6,9 +6,8 @@ ensure esx_weazelnews
 
 Contact me for help :
 
-Discord : 
+CONCTACT DISCORD : https://discord.gg/qdUD5dS4Vz FOR TRANSLATE FR TO EN, CREATE A TICKET
 ZerMix#0195
-https://discord.gg/25vtwYxYGt
 
 
 Script By ZerMix

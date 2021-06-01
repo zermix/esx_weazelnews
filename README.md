@@ -6,7 +6,9 @@ ensure esx_weazelnews
 
 Contact me for help :
 
-Discord : ZerMix#0195
+Discord : 
+ZerMix#0195
+https://discord.gg/25vtwYxYGt
 
 
 Script By ZerMix

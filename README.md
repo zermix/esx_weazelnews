@@ -1,3 +1,5 @@
+Preview : https://streamable.com/3euw5r
+
 Don't forget weazelNews.sql !
 
 Start in server.cfg :

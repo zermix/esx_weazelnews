@@ -6,6 +6,8 @@ Start in server.cfg :
 
 ensure esx_weazelnews
 
+SHOP : https://threem-store.tebex.io/
+
 CONTACT DISCORD : ZerMix#0195
 
 OR
